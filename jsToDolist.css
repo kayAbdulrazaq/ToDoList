@@ -1,0 +1,10 @@
+
+.selected{
+	color: blue;
+	font-weight: 10px;
+}
+
+.done{
+	text-decoration: line-through;
+	
+}
